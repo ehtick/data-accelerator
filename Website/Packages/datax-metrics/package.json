@@ -36,7 +36,7 @@
     "datax-common": "1.4.0-SNAPSHOT-9",
     "office-ui-fabric-react": "6.195.3",
     "q": "1.5.1",
-    "plotly.js": "1.44.4",
+    "plotly.js": "2.13.2",
     "prop-types": "15.6.2",
     "radium": "0.25.2",
     "react": "16.6.3",
@@ -51,7 +51,7 @@
     "simple-number-format": "1.0.0",
     "terser-webpack-plugin": "1.1.0",
     "url-loader": "1.1.2",
-    "webpack": "4.26.0",
+    "webpack": "4.46.0",
     "webpack-cli": "3.1.2"
   },
   "peerDependencies": {
