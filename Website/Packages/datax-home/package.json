@@ -29,7 +29,7 @@
     "babel-loader": "8.0.4",
     "css-loader": "1.0.1",
     "file-loader": "2.0.0",
-    "mini-css-extract-plugin": "0.4.4",
+    "mini-css-extract-plugin": "1.6.2",
     "datax-common": "1.4.0-SNAPSHOT-9",
     "office-ui-fabric-react": "6.195.3",
     "q": "1.5.1",
@@ -39,12 +39,12 @@
     "react-router": "4.3.1",
     "react-router-dom": "5.3.3",
     "redux": "4.0.1",
-    "redux-thunk": "2.3.0",
+    "redux-thunk": "2.4.1",
     "reselect": "4.1.6",
     "rimraf": "2.6.2",
     "terser-webpack-plugin": "1.1.0",
     "url-loader": "4.1.1",
-    "webpack": "4.26.0",
+    "webpack": "4.46.0",
     "webpack-cli": "3.1.2"
   },
   "peerDependencies": {
